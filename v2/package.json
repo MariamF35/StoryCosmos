@@ -1,0 +1,10 @@
+{
+  "name": "storyvision-v2",
+  "version": "2.0.0",
+  "private": true,
+  "description": "StoryVision v2 - AI Storyboard generating 3 illustrations per paragraph",
+  "scripts": {
+    "dev:backend": "cd storyvision/backend && npm run dev",
+    "dev:frontend": "cd storyvision/frontend && npm run dev"
+  }
+}
